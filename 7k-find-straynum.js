@@ -7,3 +7,5 @@ function stray(numbers) {
 }
 
 'ive made some chsnges ets see whatd happens'
+
+console.log()
